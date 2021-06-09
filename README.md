@@ -14,3 +14,4 @@ chmod +x xbucket.sh
 ./xbucket.sh --bucket/-b bucket-name\n" 
 ./xbucket.sh --url/-u bucketname.com.br\n" 
 ```
+![ex](https://github.com/CapuzSec/xbucket/blob/main/Capturar2222.PNG)
