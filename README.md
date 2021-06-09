@@ -1,6 +1,10 @@
 # xbucket  - Enumeration of s3 files if vulnerable
  
-## Install
+#### Requiments
+
+install aws cli https://aws.amazon.com/pt/cli/
+
+#### Install
 
 ```
 https://github.com/CapuzSec/xbucket.git
@@ -8,7 +12,7 @@ cd xbucket
 chmod +x xbucket.sh
 ``` 
 
-## Exemple of use:
+#### Exemple of use:
 
 ```
 ./xbucket.sh --bucket/-b bucket-name\n" 
